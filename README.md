@@ -7,7 +7,7 @@ But it does not work initially as planned and needs a few enhancements
 1. Fork Repo
 2. Branch off of master (name your feature branch with your last-name)
 2. Complete coding tasks
-3. Push branch and create a pull request for review
+3. Push branch and create a pull request to the base repo's master branch for review
 
 ## Coding tasks
 1. Debug the issue with the link failing to direct to site
