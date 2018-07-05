@@ -1,12 +1,13 @@
 # Candidate Test: Debugging
 The following files are gathered create a button and send the user to our site: http://truenorthinc.com
 
-But it does not work initially as planned and needs a few enahnacements
+But it does not work initially as planned and needs a few enhancements
 
 ## Overview
-1. Branch off master
+1. Fork Repo
+2. Branch off of master (name your feature branch with your last-name)
 2. Complete coding tasks
-3. Create a pull request for review
+3. Push branch and create a pull request for review
 
 ## Coding tasks
 1. Debug the issue with the link failing to direct to site
