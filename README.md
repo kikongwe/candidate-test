@@ -15,7 +15,7 @@ But it does not work initially as planned and needs a few enhancements
 3. Add a new style (in CSS) for the hover state of the button
 
 # Bonus
-* Place bonus answers in a text file in your pull request
-Can you explain what was used to redirect the user from the `http` to the `https` url once the user lands on our site?
+Place bonus answers in a text file in your pull request
+*Can you explain what was used to redirect the user from the `http` to the `https` url once the user lands on our site?
 
-Can you find what certificate authority we used on the site to encrypt our connection?
+*Can you find what certificate authority we used on the site to encrypt our connection?
