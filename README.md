@@ -1,7 +1,7 @@
 # Candidate Test: Debugging
 The following files are gathered create a button and send the user to our site: http://truenorthinc.com
 
-But it does not work initially as planned and needs a few enahnacements
+But it does not work initially as planned and needs a few enhancements
 
 ## Overview
 1. Fork Repo
