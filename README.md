@@ -9,9 +9,11 @@ But it does not work initially as planned and needs a few enhancements
 3. Push branch and create a pull request to the base repo's master branch for review
 
 ## Coding tasks
-1. Debug the issue with the link failing to direct to site
-2. Create a counter that tracks the amount of clicks to the button. This can be accomplished with whatever means you need in JS and you can style the counter however you like.
-3. Add a new style (in CSS) for the hover state of the button.
+1. Debug the issue with the button failing to redirect to the TrueNorth site.
+2. Add a new style (in CSS) for the hover state of the button.
+
+## Extended coding task if you have the extra time
+Create a counter that tracks the amount of clicks to the button. This can be accomplished with whatever means you need in JS and you can style the counter however you like.
 
 # Bonus Answers (Optional)
 Place bonus answers in a text file in your pull request
