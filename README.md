@@ -1,6 +1,5 @@
 # Candidate Test: Debugging
 The following files are gathered create a button and send the user to our site: http://truenorthinc.com
-
 But it does not work initially as planned and needs a few enhancements
 
 ## Overview
@@ -11,10 +10,10 @@ But it does not work initially as planned and needs a few enhancements
 
 ## Coding tasks
 1. Debug the issue with the link failing to direct to site
-2. Create a counter that tracks the amount of clicks to the button
-3. Add a new style (in CSS) for the hover state of the button
+2. Create a counter that tracks the amount of clicks to the button. This can be accomplished with whatever means you need in JS and you can style the counter however you like.
+3. Add a new style (in CSS) for the hover state of the button.
 
-# Bonus
+# Bonus Answers (Optional)
 Place bonus answers in a text file in your pull request
 
 *Can you explain what was used to redirect the user from the `http` to the `https` url once the user lands on our site?
