@@ -16,6 +16,7 @@ But it does not work initially as planned and needs a few enhancements
 
 # Bonus
 Place bonus answers in a text file in your pull request
+
 *Can you explain what was used to redirect the user from the `http` to the `https` url once the user lands on our site?
 
 *Can you find what certificate authority we used on the site to encrypt our connection?
