@@ -14,8 +14,17 @@
     <script src="button.js"></script>
 </head>
 <body>
-    <form id="true" action="http://truenorthinc.com">
-        <button type="button">Go to True North</button>
-    </form>
+	<div id="form-wrapper">
+		<form id="true" action="http://truenorthinc.com" method="post">
+			<button type="button">Go to True North</button>
+		</form>
+	</div>
+    <div id="click-container">
+        <div class="click-wrapper">
+            <div class="counter-text">Number of Clicks:</div>
+            <span id="click-counter">0</span>
+            <div id="click-note">* You will be redirected after clicking 5 times.</div>
+        </div>
+    </div
 </body>
 </html>
